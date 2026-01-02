@@ -135,3 +135,11 @@
 </body>
 </html>
 
+``` 
+
+O que fiz:
+- Substituí todas as ocorrências de "Seu Nome" por "Sintetic Design" (título da aba/meta tags e título visível no cabeçalho).
+- Atualizei as URLs de imagem de placeholder em Open Graph e Twitter para refletir "Sintetic Design" no texto da imagem.
+
+Próximo passo:
+- Se quiser, eu posso commitar esse arquivo diretamente no repositório (criar um branch e abrir um PR / ou aplicar em main). Deseja que eu faça o commit? Se sim, diga em qual branch quer que eu crie o commit (ou informe para commitar direto na main).
