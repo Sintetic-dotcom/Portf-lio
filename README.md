@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Portfólio | Designer Gráfico — Seu Nome</title>
+  <title>Portfólio | Designer Gráfico — Sintetic Design</title>
   <meta name="description" content="Portfólio de Designer Gráfico — artes para redes sociais, identidade visual, banners e projetos personalizados. Orçamentos e parcerias." />
   <link rel="canonical" href="https://yourdomain.com/" />
   <!-- Open Graph -->
