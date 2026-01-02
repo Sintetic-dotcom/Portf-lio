@@ -9,15 +9,15 @@
   <link rel="canonical" href="https://yourdomain.com/" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Portfólio | Designer Gráfico — Seu Nome" />
+  <meta property="og:title" content="Portfólio | Designer Gráfico — Sintetic Design" />
   <meta property="og:description" content="Artes profissionais para redes sociais, identidade visual, banners e projetos personalizados." />
   <meta property="og:url" content="https://yourdomain.com/" />
-  <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=Portf%C3%B3lio+Seu+Nome" />
+  <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=Portf%C3%B3lio+Sintetic+Design" />
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Portfólio | Designer Gráfico — Seu Nome" />
+  <meta name="twitter:title" content="Portfólio | Designer Gráfico — Sintetic Design" />
   <meta name="twitter:description" content="Artes profissionais para redes sociais, identidade visual, banners e projetos personalizados." />
-  <meta name="twitter:image" content="https://via.placeholder.com/1200x630.png?text=Portf%C3%B3lio+Seu+Nome" />
+  <meta name="twitter:image" content="https://via.placeholder.com/1200x630.png?text=Portf%C3%B3lio+Sintetic+Design" />
 
   <!-- Favicons (substitua pelos seus arquivos em /assets) -->
   <link rel="icon" href="/assets/favicon.ico" />
@@ -38,7 +38,7 @@
 
   <header class="site-header" role="banner">
     <div class="container header-inner">
-      <h1 class="site-title">Seu Nome <span class="sr-only">— Designer Gráfico</span></h1>
+      <h1 class="site-title">Sintetic Design <span class="sr-only">— Designer Gráfico</span></h1>
       <p class="site-tagline">Design profissional • Identidade visual • Social Media</p>
       <nav class="main-nav" aria-label="Navegação principal">
         <a class="btn contact-btn" href="#contato">Entrar em contato</a>
@@ -50,7 +50,7 @@
     <section class="hero" aria-labelledby="sobre-title">
       <h2 id="sobre-title" class="title">Sobre mim</h2>
       <p class="lead">
-        Sou designer gráfico focado em criar artes modernas, profissionais e alinhadas com a identidade de cada cliente. Trabalho com social media, banners, identidade visual e projetos personalizados.
+        Sou designer gráfico focado em criar artes modernas, profissionais e alinhadas com a identidade de cada cliente. Trabalho com social media, banners, identidade visual e projetos personalizado[...]
       </p>
     </section>
 
@@ -134,3 +134,4 @@
   <script src="script.js" defer></script>
 </body>
 </html>
+
